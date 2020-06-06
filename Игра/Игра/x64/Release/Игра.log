@@ -1,0 +1,41 @@
+﻿  Игра.cpp
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(83,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(84,31): warning C4101: rnd: неиспользованная локальная переменная
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(309,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(309,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(393,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(393,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(434,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(437,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(440,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(450,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(450,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(454,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(454,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(458,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(458,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(462,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(462,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(466,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(466,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(470,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(470,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(474,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(474,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(490,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(493,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(496,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(504,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(504,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(508,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(508,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(512,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(512,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(516,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukma\source\repos\Игра\Игра\Игра.cpp(516,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 91 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Игра.vcxproj -> C:\Users\lukma\source\repos\Игра\x64\Release\Игра.exe
